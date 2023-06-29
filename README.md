@@ -23,17 +23,39 @@ Running AWS EC2 instance -
 
 ![Screenshot 2023-06-29 183308](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/8d95efa9-3e04-4a63-b612-c0874d9f59f4)
 
-class teacher dashboard-
+Class teacher dashboard-
 
 ![Screenshot 2023-06-29 183629](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/19be7b48-c167-46c6-b2f0-721ce96e309a)
 
-view student -
+View student -
 
 ![Screenshot 2023-06-29 183519](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/dc484c3d-bd14-4835-9203-f80fa53374ee)
 
-view student attendance - 
+View student attendance - 
 
 ![Screenshot 2023-06-29 183551](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/eba8128a-6d36-4a83-b8d1-3fce34296483)
+
+My SQL database dashboard - 
+
+![Screenshot 2023-06-29 184141](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/e7f1ac90-b76f-4dec-843d-d09aae537bae)
+![Screenshot 2023-06-29 184222](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/cf5c41e7-4cd7-4a9e-875e-5047cb45f6cb)
+
+Admin dashboard - 
+
+![Screenshot 2023-06-29 183806](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/099f8deb-17b3-4991-ac64-51a2478ee958)
+
+Create class teacher - 
+
+![Screenshot 2023-06-29 184305](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/5ab9f552-fee2-4b43-9664-de1ed13e4215)
+
+Create new students - 
+
+![Screenshot 2023-06-29 184338](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/72c414d5-24ac-4766-895a-62fa13459128)
+
+Create session terms - 
+
+![Screenshot 2023-06-29 184355](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/9a9fb724-d246-4ee1-9867-c9b2953c1e5b)
+
 
 STEPS-->
 
