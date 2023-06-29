@@ -11,6 +11,24 @@ This PHP attendance system project is primarily concerned with dealing with stud
 * Email   : teacher@mail.com
 * Password: pass123
 
+Teacher Login - 
+![Screenshot 2023-06-29 183453](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/43477b42-55a2-4bcd-8c27-ff49c95d6617)
+
+Admin Login - 
+![Screenshot 2023-06-29 183715](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/7be3f8e3-e1af-478c-98f5-fa0537f81cad)
+
+Running AWS EC2 instance - 
+![Screenshot 2023-06-29 183308](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/8d95efa9-3e04-4a63-b612-c0874d9f59f4)
+
+class teacher dashboard-
+![Screenshot 2023-06-29 183629](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/19be7b48-c167-46c6-b2f0-721ce96e309a)
+
+view student -
+![Screenshot 2023-06-29 183519](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/dc484c3d-bd14-4835-9203-f80fa53374ee)
+
+view student attendance - 
+![Screenshot 2023-06-29 183551](https://github.com/swagatx1/STUDENT-ATTENDANCE-SYSTEM/assets/113201534/eba8128a-6d36-4a83-b8d1-3fce34296483)
+
 STEPS-->
 
 INSTALL LAMP STACK ON AWS - UBUNTU 18
